@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/5699a82d-d2d8-4cff-8748-fd1f68e82cbe
 # 🔦 Custom 2D Raycasting & Shadow Engine
 
 A custom-built 2D Raycasting and dynamic shadow-casting engine developed completely from scratch using **C++** and **SFML**. 
@@ -29,4 +27,4 @@ Instead of relying on pre-built physics or lighting engines, this project demons
 
 A screenshot and video of an instance in the raycasting system with rays emmitting from the cursor...
 
-Uploading DEMO.mp4…
+[Uploading DEMO.mp4…](https://github.com/user-attachments/assets/5699a82d-d2d8-4cff-8748-fd1f68e82cbe)
