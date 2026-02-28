@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/5699a82d-d2d8-4cff-8748-fd1f68e82cbe
 # 🔦 Custom 2D Raycasting & Shadow Engine
 
 A custom-built 2D Raycasting and dynamic shadow-casting engine developed completely from scratch using **C++** and **SFML**. 
@@ -23,5 +25,8 @@ Instead of relying on pre-built physics or lighting engines, this project demons
 5. Move your mouse to control the light source and observe the dynamic shadows!
 
 ## 📸 Screenshots
-*(Pro-tip: Upload that awesome amber torch light screenshot you showed me here!)*
-![Raycasting Demo](link_to_your_screenshot_image.png)
+<img width="1913" height="1080" alt="image" src="https://github.com/user-attachments/assets/b7010ffa-21c0-48aa-9552-e7674ce478bf" />
+
+A screenshot and video of an instance in the raycasting system with rays emmitting from the cursor...
+
+Uploading DEMO.mp4…
